@@ -73,10 +73,4 @@ Developed as a team academic project in Industrial Management / Information Syst
 
 A working prototype and full system design that demonstrates how a travel company can manage trips, customers, guides, and reports through an organized information system instead of spreadsheets.
 
----
 
-If you want, I can also generate:
-✅ a shorter README
-✅ a more technical version
-✅ a LinkedIn portfolio version
-✅ Hebrew version for academic upload.
