@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="e73c0c45-2c1c-470c-9920-36fc42949dd8" ChangeDateTime="06/01/2023 05:57:00">
+    <Property Name="ElementName" Value="[dbo].[מדרכים].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[מדרכים]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="מדרכים-id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="497fa54c-1816-4c6d-b0ae-000c931f1052" ChangeDateTime="06/01/2023 05:57:29">
+    <Property Name="ElementName" Value="[dbo].[מדרכים].[שם פרטטי]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[מדרכים]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="שם פרטי" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="c8337dd1-56ed-4e03-ac62-177660b1dbbe" ChangeDateTime="06/01/2023 06:09:01">
+    <Property Name="ElementName" Value="[dbo].[מקומות טיול].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[מקומות טיול]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="מקומות טיול-id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="bced6471-bab4-4eb8-adac-be23ac61e75c" ChangeDateTime="06/01/2023 06:38:16">
+    <Property Name="ElementName" Value="[dbo].[לקוחות].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[לקוחות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="לקוחות-id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="fe610ef2-98f8-4454-a2ee-6d7ff29b3dac" ChangeDateTime="06/01/2023 06:41:36">
+    <Property Name="ElementName" Value="[dbo].[לקוחות].[שמות מדרכים ]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[לקוחות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="רשימת מדרכים " />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f210ff2b-a058-4229-bbaf-a3dbb1b2f872" ChangeDateTime="06/01/2023 06:42:43">
+    <Property Name="ElementName" Value="[dbo].[לקוחות].[מאיזה תאריך]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[לקוחות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="שם טיול" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="362d3fe2-b06f-4a4b-a0b8-daa065637fc2" ChangeDateTime="06/01/2023 06:42:48">
+    <Property Name="ElementName" Value="[dbo].[לקוחות].[עד איזה תאריך]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[לקוחות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="שם משפחה" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="44e518ab-fb11-4730-a27e-14f08761ed41" ChangeDateTime="06/01/2023 06:42:53">
+    <Property Name="ElementName" Value="[dbo].[לקוחות].[רשימת מדרכים ]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[לקוחות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="שם פרטי" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a4d5c625-5778-4609-8357-d11f11aca6c3" ChangeDateTime="06/01/2023 06:42:59">
+    <Property Name="ElementName" Value="[dbo].[לקוחות].[באיזה תאריך  משתתף כל מדריך]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[לקוחות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="טלפון" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2cd5acc6-1290-4c3e-a1b2-71c43deb65be" ChangeDateTime="06/01/2023 06:43:02">
+    <Property Name="ElementName" Value="[dbo].[לקוחות].[מקומות ביקור בכל תאריך ]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[לקוחות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="מייל" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="96b65b69-82c4-4ed0-b700-f645df1af00a" ChangeDateTime="06/01/2023 06:59:24">
+    <Property Name="ElementName" Value="[dbo].[מגבלות].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[מגבלות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="מגבלות-id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a972f3df-3fcf-42c1-a11d-a8bb38b188cf" ChangeDateTime="06/01/2023 07:01:18">
+    <Property Name="ElementName" Value="[dbo].[מגבלות].[עד גיל]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[מגבלות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="שם מגבלה" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="37e33541-8701-4e4f-9087-174f0642ab97" ChangeDateTime="06/01/2023 07:01:30">
+    <Property Name="ElementName" Value="[dbo].[מגבלות].[מעאל גיל]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[מגבלות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="עד גיל" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="431e4e7f-e355-4d0e-9066-0732caa73f4b" ChangeDateTime="06/01/2023 07:02:15">
+    <Property Name="ElementName" Value="[dbo].[מגבלות].[פירוט מגבלה]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[מגבלות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="מגבלה רפואית" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a68017f5-77d8-4529-b713-c55cb7a31318" ChangeDateTime="06/01/2023 07:04:45">
+    <Property Name="ElementName" Value="[dbo].[חברות הסעה].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[חברות הסעה]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id-חברת הסעה " />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="8a69f8cc-6f5f-48f2-99ce-a45bbf9b3181" ChangeDateTime="06/01/2023 07:07:24">
+    <Property Name="ElementName" Value="[dbo].[בתי מלון].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[בתי מלון]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="בתי מלון-id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f01df952-ac9d-4275-ab77-b6c3628f6dfb" ChangeDateTime="06/01/2023 07:07:48">
+    <Property Name="ElementName" Value="[dbo].[בתי מלון].[שם]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[בתי מלון]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="שם בית מלון" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="745672be-0ab0-4e84-b619-bc64e4ef5b24" ChangeDateTime="06/01/2023 07:08:07">
+    <Property Name="ElementName" Value="[dbo].[בתי מלון].[דירוג]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[בתי מלון]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="דירוג המלון " />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3422ff06-e728-463f-acd7-7810a12b27cb" ChangeDateTime="06/01/2023 07:10:34">
+    <Property Name="ElementName" Value="[dbo].[מסעדות].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[מסעדות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="מסעדות-id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="5bd3bff0-1334-4006-bc4f-a8193ba08cbf" ChangeDateTime="06/01/2023 07:13:29">
+    <Property Name="ElementName" Value="[dbo].[טיולים].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[טיולים]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="טיולים-id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="9b0e409f-a8e2-47aa-8852-a915f21250b4" ChangeDateTime="06/01/2023 07:17:21">
+    <Property Name="ElementName" Value="[dbo].[חברות הסעה].[שם חברה]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[חברות הסעה]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="שם חברת הסעה" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="1e371635-4f4b-45e5-a14b-27651b49a737" ChangeDateTime="06/01/2023 07:21:53">
+    <Property Name="ElementName" Value="[dbo].[טיולים].[רשימת בתי מלון]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[טיולים]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="רשימת בתי מלון לפי תאריך לינה" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="5e86cb32-9436-4abf-8460-a96fe21100c8" ChangeDateTime="06/01/2023 07:28:03">
+    <Property Name="ElementName" Value="[dbo].[טיולים].[מס' סידורי של טיול]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[טיולים]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="מספר סידורי של טיול" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2fda9ef6-510e-49a1-884d-9d2028fd2384" ChangeDateTime="06/01/2023 07:33:20">
+    <Property Name="ElementName" Value="[dbo].[FK_טיולים_]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[טיולים]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_טיולים_לקוחות]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="9247adfa-e0e6-45dc-b3ff-22e51543102a" ChangeDateTime="06/01/2023 07:35:02">
+    <Property Name="ElementName" Value="[dbo].[FK_טיולים_לקוחות]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[טיולים]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_לקוחות_טיולים]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="21e6cea2-6986-40ca-acf8-e074819f941e" ChangeDateTime="06/01/2023 07:43:07">
+    <Property Name="ElementName" Value="[dbo].[לקוחות].[מגבלות רפואיות ]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[לקוחות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="מגבלה רפואיות " />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e5dbb224-ecff-4ee0-9bba-027cfcffe4c9" ChangeDateTime="06/01/2023 07:45:26">
+    <Property Name="ElementName" Value="[dbo].[לקוחות].[מגבלה רפואיות ]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[לקוחות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="מגבלה רפואית" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3ce4095f-e402-44ad-bc7b-93fc2f2a90c2" ChangeDateTime="06/01/2023 09:48:33">
+    <Property Name="ElementName" Value="[dbo].[FK_טיולים_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[טיולים]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_בתי מלון_]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="54d099c3-405e-4e55-84b7-9ec0c05dd62c" ChangeDateTime="06/01/2023 09:52:40">
+    <Property Name="ElementName" Value="[dbo].[FK_חברות הסעה_טיולים]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[טיולים]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_טיולים_חברות הסעה]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="912386a6-76b9-45ed-8c9e-a03bdb67992e" ChangeDateTime="06/05/2023 10:39:36">
+    <Property Name="ElementName" Value="[dbo].[בתי מלון].[פרטי איש קשר]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[בתי מלון]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="שם משפחה איש קשר" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3717be62-c304-43c0-802a-fe7c87b4e51a" ChangeDateTime="06/05/2023 10:41:22">
+    <Property Name="ElementName" Value="[dbo].[בתי מלון].[טלפון]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[בתי מלון]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="טלפון איש קשר" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="6601dc8c-9f9f-4c8c-9021-53cfa717470a" ChangeDateTime="06/05/2023 10:42:50">
+    <Property Name="ElementName" Value="[dbo].[חברות הסעה].[פרטי איש קשר]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[חברות הסעה]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="שם משפחה איש קשר" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f6f10e5c-b258-439e-9e2e-53069ed25b2d" ChangeDateTime="06/05/2023 10:44:48">
+    <Property Name="ElementName" Value="[dbo].[מסעדות].[פרטי איש קשר]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[מסעדות]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="שם משפחה איש קשר" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a4cb2eca-74c1-4688-9efc-ae7cd5c7e7d7" ChangeDateTime="06/05/2023 10:45:32">
+    <Property Name="ElementName" Value="[dbo].[מקומות טיול].[פרטי איש קשר]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[מקומות טיול]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="שם משפחה איש קשר" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="db81ff13-4b45-4a30-b77a-e924366d01ad" ChangeDateTime="06/05/2023 11:09:40">
+    <Property Name="ElementName" Value="[dbo].[טיולים].[באיזה תארריך משתתף כל מדריך]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[טיולים]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="באיזה תאריך משתתף כל מדריך" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f53b01df-6f47-4aa7-828c-b15423e09e94" ChangeDateTime="06/05/2023 11:29:20">
+    <Property Name="ElementName" Value="[dbo].[FK_טיולים_מדריכים]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[מדרכים]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_טיולים_מדרכים]" />
+  </Operation>
+</Operations>

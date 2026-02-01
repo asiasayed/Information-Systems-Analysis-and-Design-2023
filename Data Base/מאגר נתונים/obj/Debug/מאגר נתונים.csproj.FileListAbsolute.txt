@@ -1,0 +1,10 @@
+C:\Users\Asia\OneDrive\שולחן העבודה\Data Base\מאגר נתונים\bin\Debug\מאגר נתונים.exe.config
+C:\Users\Asia\OneDrive\שולחן העבודה\Data Base\מאגר נתונים\bin\Debug\מאגר נתונים.exe
+C:\Users\Asia\OneDrive\שולחן העבודה\Data Base\מאגר נתונים\bin\Debug\מאגר נתונים.pdb
+C:\Users\Asia\OneDrive\שולחן העבודה\Data Base\מאגר נתונים\obj\Debug\מאגר נתונים.csproj.AssemblyReference.cache
+C:\Users\Asia\OneDrive\שולחן העבודה\Data Base\מאגר נתונים\obj\Debug\מאגר נתונים.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asia\OneDrive\שולחן העבודה\Data Base\מאגר נתונים\obj\Debug\מאגר_נתונים.Properties.Resources.resources
+C:\Users\Asia\OneDrive\שולחן העבודה\Data Base\מאגר נתונים\obj\Debug\מאגר נתונים.csproj.GenerateResource.cache
+C:\Users\Asia\OneDrive\שולחן העבודה\Data Base\מאגר נתונים\obj\Debug\מאגר נתונים.csproj.CoreCompileInputs.cache
+C:\Users\Asia\OneDrive\שולחן העבודה\Data Base\מאגר נתונים\obj\Debug\מאגר נתונים.exe
+C:\Users\Asia\OneDrive\שולחן העבודה\Data Base\מאגר נתונים\obj\Debug\מאגר נתונים.pdb
